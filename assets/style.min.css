@@ -111,7 +111,6 @@ img {
 }
 #about-me {
   flex: 2;
-  text-align: justify;
 }
 .about-me__title {
   margin-top: 1em;
