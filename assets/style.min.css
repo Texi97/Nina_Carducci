@@ -109,7 +109,8 @@ img {
 .picture img {
   width: 100%;
 }
-#about-me {
+#about-me,
+.form-container {
   flex: 2;
 }
 .about-me__title {
@@ -221,9 +222,6 @@ form textarea {
   background-color: #beb45a;
   position: absolute;
   right: 0;
-}
-.form-container {
-  flex: 2;
 }
 form {
   flex-direction: column;
