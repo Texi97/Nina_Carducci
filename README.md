@@ -27,6 +27,10 @@ Sur la base des échanges avec Nina, voici les principales tâches que je vais r
 - Ajout des métadonnées pour les réseaux sociaux.
 - Correction des bugs dans le code, y compris la navigation dans la galerie et l'affichage des filtres.
 
+### > Objectifs pédagogiques
+  
+  - Optimiser la performance d'un site web
+
 ### > Livrables
 
 - [Site de Nina Carducci](https://texi97.github.io/ninacarducci.github.io/)
